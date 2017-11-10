@@ -1,11 +1,11 @@
 {
   "author": "Stephen Sugden <me@stephensugden.com> (http://stephensugden.com)",
-  "name": "dmg-uri-template",
-  "description": "Parse and expand URI templates mostly following http://tools.ietf.org/html/rfc6570 except for allowing these additional characters parameter names (see index.pegjs)",
+  "name": "adsk-uri-template",
+  "description": "Parse and expand URI templates mostly following http://tools.ietf.org/html/rfc6570 except for allowing extra characters in parameter names (see index.pegjs)",
   "version": "1.0.0",
   "repository": {
     "type": "git",
-    "url": "git://github.com/DMG-Cloud-Services/dmg-uri-template.git"
+    "url": "git://github.com/DMG-Cloud-Services/adsk-uri-template.git"
   },
   "scripts": {
     "prepublish": "make",
